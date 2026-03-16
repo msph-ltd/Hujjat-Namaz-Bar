@@ -30,7 +30,6 @@ Download the latest version from the Releases page:
 
 https://github.com/msph-ltd/Hujjat-Namaz-Bar/releases
 
-Download:
 
 ---
 
